@@ -48,4 +48,7 @@ This project is a news application for Android that fetches the latest news from
 - Material Design
 - API Integration
 
+## 📫 How to reach me **arulragavendiran@gmail.com**
+
+
 ## Download News App now and embark on a journey of discovery, knowledge, and entertainment like never before!
